@@ -2,7 +2,7 @@
 
 Hi, I’m @VincentGlueck , a.k.a **Martin** (Helmut) **Lange**, VincGlueck (__Nintendo__), VincentGlueck(__XBox live__), former Whistling Willi (ww)
 
-**What I do or do not**
+**Was ich mache, and not!**
 
 In my spare time I sometimes take focus on some Android related (small) project.
 
