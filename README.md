@@ -11,7 +11,7 @@ Dunno, my current project - of course - started the old-fashioned-way: Java ;-)
 
 **Bio**
 
-Starting on ZX-81, learing Zilog Assembler, 6502 Assembler language/codes, I went to PC, later on to Mobile development.
+Starting on ZX-81, learning Zilog Assembler, 6502 Assembler language/codes, I went to PC, later on to Mobile development.
 I then studied computer science and completed successfully -> real life started.
 
 **Finally met my wife**
